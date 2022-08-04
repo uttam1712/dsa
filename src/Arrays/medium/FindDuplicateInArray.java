@@ -1,6 +1,6 @@
 package Arrays.medium;
 
-//
+// https://leetcode.com/problems/find-the-duplicate-number/solution/
 
 public class FindDuplicateInArray {
     public static void main(String[] args) {
