@@ -1,4 +1,4 @@
-package Strings;
+package Strings.easy;
 
 // https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 

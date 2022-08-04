@@ -1,4 +1,4 @@
-package Strings;
+package Strings.easy;
 
 // https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
