@@ -3,6 +3,8 @@ package Arrays.medium;
 import java.util.ArrayList;
 import java.util.List;
 
+// https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
 public class FindAllDuplicatesInArray {
     public static void main(String[] args) {
 
